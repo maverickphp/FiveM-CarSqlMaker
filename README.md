@@ -6,10 +6,6 @@ This Python program uploads a file .ytd, copies multiple names, and adds them to
 <h4>Requirements</h4>
 - Python 3.x
 
-
-<h4>Built with</h4>
-[![Next][Next.js]][Next-url]
-
 <h4>How to use</h4>
 
 1. Clone the code to your system
