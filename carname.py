@@ -19,7 +19,7 @@ if not ytd_files:
 
 # Add the file names to a SQL query
 query = 'INSERT INTO `importedvehicles` (`name`, `model`, `price`, `category`) VALUES '
-values = ', '.join([f"('Mustang302','{file_name}', 1000000, 'ford')" for file_name in ytd_files])
+values = ', '.join([f"('CarName','{file_name}', 1000000, 'CarCategory')" for file_name in ytd_files])
 
 with open('file.sql', 'a') as sql_file:
     sql_file.write(f'{query}{values};\n')
