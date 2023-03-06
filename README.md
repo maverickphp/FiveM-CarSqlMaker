@@ -7,12 +7,13 @@ This Python program uploads a file .ytd, copies multiple names, and adds them to
 - Python 3.x
 
 <h4>How to use</h4>
-1. Clone the code to your system.
-2. Edit the carname.py file.
-3. On line no 6, you can change the directory of carpack stream folder.
-4. On line no 7, you can change the number of queries you want to write.
-6. Save and close the file.
-7. Open the .start file and your query will be written in the file.sql file.
+
+1. Clone the code to your system
+2. Edit the carname.py file
+3. On line no 6, you can change the directory of carpack stream folder
+4. On line no 7, you can change the number of queries you want to write
+6. Save and close the file
+7. Open the .start file and your query will be written in the file.sql file
 
 <b><h3>NOTE:</h3></b>
 If you have any issue you can open a thread in issues.
