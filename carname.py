@@ -3,7 +3,7 @@
 import os
 
 # Find multiple .ytd files in a folder
-folder_path = 'E:/esx-legacy1.8/server-data/resources/[assets]/[cars]/[car_packs]/mvx_carpack1/stream'
+folder_path = '/path/to/csv/folder'
 num_files = 100  # Change this to the desired number of files
 ytd_files = []
 
