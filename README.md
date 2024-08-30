@@ -21,5 +21,6 @@ Thanks!
 
 
 [ NEW UPDATE]
-pip install pyinstaller
-pyinstaller --onefile --clean carname.py
+##COMMANDS:
+- pip install pyinstaller
+- pyinstaller --onefile --clean carname.py
