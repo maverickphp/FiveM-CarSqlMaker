@@ -18,3 +18,6 @@ This Python program uploads a file .ytd, copies multiple names, and adds them to
 <b><h3>NOTE:</h3></b>
 If you have any issue you can open a thread in issues.
 Thanks!
+
+
+pyinstaller --onefile --clean carname.py
