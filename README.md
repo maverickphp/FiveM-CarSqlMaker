@@ -20,7 +20,7 @@ If you have any issue you can open a thread in issues.
 Thanks!
 
 
-[ NEW UPDATE]
-# COMMANDS:
+# [ NEW UPDATE]
+<h2>COMMANDS:</h3>
 - pip install pyinstaller
 - pyinstaller --onefile --clean carname.py
