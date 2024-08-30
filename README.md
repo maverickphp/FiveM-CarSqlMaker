@@ -20,4 +20,6 @@ If you have any issue you can open a thread in issues.
 Thanks!
 
 
+[ NEW UPDATE]
+pip install pyinstaller
 pyinstaller --onefile --clean carname.py
